@@ -30,6 +30,8 @@ end
 [More Ruby Ennmerable Methods](https://ruby-doc.org/core-2.2.3/Enumerable.html)
 
 ## Cheat Sheet
-| rb | py | explanation |
-| -- | -- | -- |
-| `[1,2,3].all? {&#124;x&#124; x>0}`|`all(x>0 for x in [1,2,3])`| test if all elements in array are greater than 0
+[Hyperpolyglot Cheat Sheet](http://hyperpolyglot.org/scripting)
+| rb | py |
+| -- | -- |
+| [1,2,3].all? {&#124;x&#124; x>0}        | all(x>0 for x in [1,2,3])|
+| [1,2,3].find_all {&#124;x&#124; x%2==0} | [x for x in [1,2,3] if x%2==0]|

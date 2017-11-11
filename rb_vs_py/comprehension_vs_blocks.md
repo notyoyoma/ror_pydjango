@@ -32,4 +32,4 @@ end
 ## Cheat Sheet
 | rb | py | explanation |
 | -- | -- | -- |
-| `[1,2,3].all? {|x| x>0}|`all(x>0 for x in [1,2,3])`| test if all elements in array are greater than 0
+| `[1,2,3].all? {&#124;x&#124; x>0}|`all(x>0 for x in [1,2,3])`| test if all elements in array are greater than 0

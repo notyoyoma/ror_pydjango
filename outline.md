@@ -1,19 +1,18 @@
-###RoR.to_django and django.__ror__
+### RoR.to_django and django.__ror__
 
 ##### Workflow
 * Tools
- * pyenv|virtualenv ~= rvm|rbenv
- * pipi ~= rubygems
- * pip ~= bundle
- * rails cli ~= python manage.py
-   * Rails scaffolding
-* Project structure
-* Package authoring
-* Migrations
+  * virtualenv|pyenv ~= rvm|rbenv
+  * pipi ~= rubygems
+  * pip ~= bundle|rails cli
+  * python manage.py ~= rails cli
+    * [Rails scaffolding](./tools/rails_scaffolding/readme.md)
+* [Package authoring](./tools/package_authoring.md)
+* [Migrations](./tools/migrations.md)
 
 ##### Ruby <-> Python
 
-* Lambdas Vs Comprehension
+* Comprehension Vs Lambdas
 * Scoping variables
 
 ##### Rails <-> Django

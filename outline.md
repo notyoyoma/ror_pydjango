@@ -7,7 +7,7 @@
   * pip ~= bundle|rails
   * requirements.txt ~= Gemfile
   * python manage.py ~= rails
-    * [Rails scaffolding](./tools/rails_scaffolding/readme.md)
+    * [Rails scaffolding](./examples/rails_scaffolding/readme.md)
 * Package authoring
 * [Migrations](./tools/migrations.md)
 

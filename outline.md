@@ -8,7 +8,7 @@
   * requirements.txt ~= Gemfile
   * python manage.py ~= rails
     * [Rails scaffolding](./tools/rails_scaffolding/readme.md)
-* [Package authoring](./tools/package_authoring.md)
+* Package authoring
 * [Migrations](./tools/migrations.md)
 
 ##### Ruby <-> Python
@@ -19,7 +19,7 @@
 
 ##### Rails <-> Django
 
-* [Monolith implicit vs siloed explicit](./rails_vs_django/monolith_implicit_vs_siloed_explicit.rb)
+* [Monolith implicit vs siloed explicit](./rails_vs_django/monolith_implicit_vs_siloed_explicit.md)
 * [MCV conventions](./rails_vs_django/mcv_conventions.md)
 * [Assets](./rails_vs_django/assets.md)
 * [API authoring](./rails_vs_django/api_authoring.md)

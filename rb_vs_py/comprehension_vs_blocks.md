@@ -29,7 +29,7 @@ end
 ```
 [More Ruby Ennmerable Methods](https://ruby-doc.org/core-2.2.3/Enumerable.html)
 
-## Cheat Sheet
+## Examples
 [Hyperpolyglot Cheat Sheet](http://hyperpolyglot.org/scripting)
 | rb | py |
 | -- | -- |

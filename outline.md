@@ -20,7 +20,17 @@
 ##### Rails <-> Django
 
 * [Monolith implicit vs siloed explicit](./rails_vs_django/monolith_implicit_vs_siloed_explicit.md)
-* [MCV conventions](./rails_vs_django/mcv_conventions.md)
 * [Assets](./rails_vs_django/assets.md)
-* [API authoring](./rails_vs_django/api_authoring.md)
+* [APIs and routing](./rails_vs_django/apis_and_routing.md)
 * [ORM](./rails_vs_django/orm.md)
+* [Templates](./rails_vs_django/templates.md)
+* [Admin Views](./rails_vs_django/admin_views.md)
+
+##### Topics not covered
+
+* Forms
+* Parameters
+* Caching
+* Socket.io
+* Webpack
+* SQL Minutae

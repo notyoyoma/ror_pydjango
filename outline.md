@@ -35,4 +35,5 @@
 * Webpack
 * SQL Minutae
 * Many-to-Many helpers
+* Django Signals vs Rails callbacks
 * Any I missed? Please leave a comment!

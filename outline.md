@@ -34,3 +34,5 @@
 * Socket.io
 * Webpack
 * SQL Minutae
+* Many-to-Many helpers
+* 

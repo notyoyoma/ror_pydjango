@@ -22,6 +22,9 @@ print(dennis_name) # Yep
 
 ### Python arguments
 ```py
+class ThingDoer():
+  __init__(self, more_things):
+    self.things = ['thing1','thing2',more_things]
 def do_things(arg, extra_kwarg=False, *args, **kwargs):
   # args is a list
   # kwargs is a dict
@@ -30,6 +33,11 @@ def do_things(arg, extra_kwarg=False, *args, **kwargs):
 
 ### Ruby arguments
 ```ruby
+class ThingDoer
+  def initialize more_things
+    @things = ['thing1']
+  end
+end
 def do_things(*args, a: true, b: false)
   # args is an array
 end
